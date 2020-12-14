@@ -1,2 +1,2 @@
 A cli quiz app which checks how much you knwo about me.
-Made with **node js**.
+Made with **node.js**.
